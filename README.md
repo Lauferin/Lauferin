@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lauferin (Adrian Laufer), live in Israel.
 - 👀 I’m interested in learning all about programming.
 - 🌱 I’m currently learning at the open university.
-- 💞️ I’m looking to collaborate any a really cool project.
+- 💞️ I’m looking to collaborate in any really cool project.
 - 📫 How to reach me - just send a message!
 
 <!---
